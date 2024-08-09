@@ -6,5 +6,7 @@ surname = "Okei"
 # displays my full name
 
 print(first_name,surname)
-print("Ghana")
-print("Accra")
+print("comes from ")
+print("Nigeria")
+print("stays in")
+print("Benin")
