@@ -1,5 +1,5 @@
-!#/usr/bin/python3
+#!/usr/bin/python3
 
 print("Obed")
 
-print("")
+print("This is the best form")

@@ -5,8 +5,8 @@ surname = "Okei"
 
 # displays my full name
 
-print(first_name,surname)
-print("comes from ")
-print("Nigeria")
-print("stays in")
-print("Benin")
+print(first_name,surname, sep="_", end=" ")
+print("comes from ", end=" ")
+print("Nigeria", end=" ")
+print("stays in", end=" ")
+print("Benin", end="\n")
