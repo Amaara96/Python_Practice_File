@@ -8,7 +8,7 @@ name = input("Name: ")
 for ch in name:
 
     if (ch == "m"):
-        continue
+        break
     print(ch * 6) #The * symbol multiplies the character
 
 else:
